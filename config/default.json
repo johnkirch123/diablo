@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://administrator:admin123123@diablo3.3qxe2.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://administrator:admin123123@diablo3.3qxe2.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "theSecretToken"
 }
